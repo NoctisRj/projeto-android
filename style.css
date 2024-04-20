@@ -47,6 +47,7 @@ header {
     min-height: 150px; 
     margin: auto;
     text-align: center;
+
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
 }
 
@@ -81,7 +82,7 @@ nav {
 nav > a {
     color: white;
     text-decoration: none;
-    padding: 20px;
+    padding: 10px;
     border-radius: 5px;
     font-weight: bold;
 }
